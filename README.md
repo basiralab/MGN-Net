@@ -77,7 +77,7 @@ Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan, Edward Yang, Zachary D
 
 
 
-## Please cite the following paper when using MGN_Net
+## Please cite the following paper when using MGN-Net
 ```latex
   @inproceedings{gurbuzrekik2021,
     title={MGN-Net: a multi-view graph normalizer for integrating heterogeneous biological network populations},
