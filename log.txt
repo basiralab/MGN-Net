@@ -1,0 +1,58 @@
+********* FOLD 0 *********
+reading ./simulated dataset/example.npy
+********* FOLD 0 *********
+reading ./simulated dataset/example.npy
+********* FOLD 0 *********
+reading ./simulated_dataset/example.npy
+********* FOLD 0 *********
+Epoch: 0  |  example.npy Rep: 52.92  |  KL: 0.26 | Time Elapsed: 2.85  |
+Epoch: 10  |  example.npy Rep: 43.02  |  KL: 0.25 | Time Elapsed: 13.66  |
+Epoch: 20  |  example.npy Rep: 34.71  |  KL: 0.22 | Time Elapsed: 13.74  |
+Epoch: 30  |  example.npy Rep: 28.10  |  KL: 0.19 | Time Elapsed: 16.01  |
+Epoch: 40  |  example.npy Rep: 23.14  |  KL: 0.16 | Time Elapsed: 14.30  |
+Epoch: 50  |  example.npy Rep: 19.54  |  KL: 0.13 | Time Elapsed: 15.82  |
+Epoch: 60  |  example.npy Rep: 16.69  |  KL: 0.13 | Time Elapsed: 18.75  |
+Epoch: 70  |  example.npy Rep: 14.48  |  KL: 0.13 | Time Elapsed: 16.27  |
+Epoch: 80  |  example.npy Rep: 12.85  |  KL: 0.14 | Time Elapsed: 15.92  |
+Epoch: 90  |  example.npy Rep: 11.79  |  KL: 0.13 | Time Elapsed: 16.36  |
+FINAL RESULTS  REP: 11.785028457641602  KL: 0.005081011913716793
+********* FOLD 1 *********
+Epoch: 0  |  example.npy Rep: 29.52  |  KL: 0.21 | Time Elapsed: 1.88  |
+Epoch: 10  |  example.npy Rep: 24.14  |  KL: 0.19 | Time Elapsed: 14.65  |
+Epoch: 20  |  example.npy Rep: 20.14  |  KL: 0.17 | Time Elapsed: 15.55  |
+Epoch: 30  |  example.npy Rep: 17.09  |  KL: 0.15 | Time Elapsed: 15.38  |
+Epoch: 40  |  example.npy Rep: 14.77  |  KL: 0.13 | Time Elapsed: 14.17  |
+Epoch: 50  |  example.npy Rep: 13.23  |  KL: 0.11 | Time Elapsed: 14.14  |
+Epoch: 60  |  example.npy Rep: 12.35  |  KL: 0.10 | Time Elapsed: 14.23  |
+Epoch: 70  |  example.npy Rep: 11.62  |  KL: 0.11 | Time Elapsed: 14.99  |
+Epoch: 80  |  example.npy Rep: 11.12  |  KL: 0.11 | Time Elapsed: 15.28  |
+Epoch: 90  |  example.npy Rep: 10.86  |  KL: 0.11 | Time Elapsed: 14.32  |
+FINAL RESULTS  REP: 10.855175971984863  KL: 0.0044344705529510975
+********* FOLD 2 *********
+Epoch: 0  |  example.npy Rep: 26.61  |  KL: 0.34 | Time Elapsed: 1.98  |
+Epoch: 10  |  example.npy Rep: 20.94  |  KL: 0.30 | Time Elapsed: 14.65  |
+Epoch: 20  |  example.npy Rep: 17.22  |  KL: 0.21 | Time Elapsed: 14.02  |
+Epoch: 30  |  example.npy Rep: 15.22  |  KL: 0.18 | Time Elapsed: 16.67  |
+Epoch: 40  |  example.npy Rep: 13.53  |  KL: 0.16 | Time Elapsed: 15.18  |
+Epoch: 50  |  example.npy Rep: 12.12  |  KL: 0.15 | Time Elapsed: 15.84  |
+Epoch: 60  |  example.npy Rep: 11.33  |  KL: 0.14 | Time Elapsed: 17.49  |
+Epoch: 70  |  example.npy Rep: 10.97  |  KL: 0.14 | Time Elapsed: 16.83  |
+Epoch: 80  |  example.npy Rep: 10.86  |  KL: 0.13 | Time Elapsed: 17.90  |
+Epoch: 90  |  example.npy Rep: 10.78  |  KL: 0.13 | Time Elapsed: 17.93  |
+FINAL RESULTS  REP: 10.781169891357422  KL: 0.005342632997781038
+********* FOLD 3 *********
+Epoch: 0  |  example.npy Rep: 31.35  |  KL: 0.25 | Time Elapsed: 2.35  |
+Epoch: 10  |  example.npy Rep: 25.62  |  KL: 0.25 | Time Elapsed: 17.91  |
+Epoch: 20  |  example.npy Rep: 21.10  |  KL: 0.22 | Time Elapsed: 17.19  |
+Epoch: 30  |  example.npy Rep: 17.58  |  KL: 0.19 | Time Elapsed: 15.29  |
+Epoch: 40  |  example.npy Rep: 15.02  |  KL: 0.17 | Time Elapsed: 16.52  |
+Epoch: 50  |  example.npy Rep: 13.16  |  KL: 0.14 | Time Elapsed: 14.41  |
+Epoch: 60  |  example.npy Rep: 11.94  |  KL: 0.14 | Time Elapsed: 16.16  |
+Epoch: 70  |  example.npy Rep: 11.33  |  KL: 0.14 | Time Elapsed: 14.47  |
+Epoch: 80  |  example.npy Rep: 10.85  |  KL: 0.12 | Time Elapsed: 15.39  |
+Epoch: 90  |  example.npy Rep: 10.61  |  KL: 0.11 | Time Elapsed: 18.38  |
+********* FOLD 0 *********
+Epoch: 0  |  example.npy Rep: 52.92  |  KL: 0.26 | Time Elapsed: 1.97  |
+Epoch: 10  |  example.npy Rep: 43.02  |  KL: 0.25 | Time Elapsed: 14.98  |
+Epoch: 20  |  example.npy Rep: 34.71  |  KL: 0.22 | Time Elapsed: 14.11  |
+Epoch: 30  |  example.npy Rep: 28.10  |  KL: 0.19 | Time Elapsed: 16.08  |
