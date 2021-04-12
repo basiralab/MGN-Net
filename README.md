@@ -82,7 +82,7 @@ Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan, Edward Yang, Zachary D
   @article{gurbuzrekik2021,
     title={MGN-Net: a multi-view graph normalizer for integrating heterogeneous biological network populations},
     author={Gurbuz, Mustafa Burak and Rekik, Islem},
-    booktitle={Medical Image Analysis},
+    journal={Medical Image Analysis},
     year={2021},
     organization={Elsevier}
   }
