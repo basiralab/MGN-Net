@@ -79,7 +79,7 @@ Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan, Edward Yang, Zachary D
 
 ## Please cite the following paper when using MGN-Net
 ```latex
-  @inproceedings{gurbuzrekik2021,
+  @article{gurbuzrekik2021,
     title={MGN-Net: a multi-view graph normalizer for integrating heterogeneous biological network populations},
     author={Gurbuz, Mustafa Burak and Rekik, Islem},
     booktitle={Medical Image Analysis},
