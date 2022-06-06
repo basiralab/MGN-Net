@@ -193,6 +193,9 @@ class MGN_NET(torch.nn.Module):
         save_path = config.MODEL_WEIGHT_BACKUP_PATH + "/" + model_name + "/"
         if not os.path.exists(save_path):
             os.makedirs(save_path)
+        
+        if not os.path.isdir("temp"):
+            os.makedirs("temp")
             
         model_id = str(uuid.uuid4())
         model_params = config.PARAMS
